@@ -1,2 +1,1 @@
-# school
-Markdown &amp; Git
+ https://testazamat.github.io/chool-cv/cv
